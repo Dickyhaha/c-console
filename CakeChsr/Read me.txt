@@ -1,0 +1,35 @@
+CakeChsr Release v1.0.0.0.0.0.0 (Beta)
+---------------------------------------------------------------------------------------------------------------------------------------------
+Copyright (R) - Blah Blah Blah I don't really care, it's not like I can earn money from this
+---------------------------------------------------------------------------------------------------------------------------------------------
+Oh hello there! I see you're looking for your birthday cake! I know, I know,  you are excited to get your cake back.
+But before you go, you need to follow some basic guidlines:
+---------------------------------------------------------------------------------------------------------------------------------------------
+1. Your character (D), when moving, will be shown as arrows to indicate directions of walking (^>v<).
+2. Most objects and items can trigger dialogues by pressing <SpaceBar>, you may want to explore the whole map.
+3. To select items or continue conversations in-game, press <Enter>
+4. Due to the fact that certain parts of the program were written months ago, Setpos(i,j) was not used.
+     i.e. for laptop cake chasers the game may be a little laggy.
+5. Due to the fact that the programmer doesn't even know how to make a decent program, this game may be buggy.
+6. Should you have any inquiries, please contact Gele the Matey, he may be a pirate but he certainly knows about 
+     this game. And of course you can find me the you know who too.
+--------------------------------------------------------------------------------------------------------------------------------------------- 
+Now that the basic instructions are clear, let's move on to the storyline:
+---------------------------------------------------------------------------------------------------------------------------------------------
+Plot:
+You are Darren the CakeChsr, just couple of days ago you found out that the birthday cake prepared was gone, after years(actually days) of research, you've lowered the range of the thief from every living creature in the universe down to your close friends, Bob, Charlie, Fred and George. You decided to investigate into this case as you really wanted the cake. So here you go, CakeChsr v1.0.0.0.0.0.0 (Beta)(Merely debugged)!!!!!
+---------------------------------------------------------------------------------------------------------------------------------------------
+Cast:
+CakeChsr: CakeChsr
+Bob: Bob
+Charlie: Charlie
+Fred: Fred
+George: George
+---------------------------------------------------------------------------------------------------------------------------------------------
+Credit:
+Me
+Gele the Matey
+Still Me
+Still Gele the Matey
+Still... ok this can go forever
+---------------------------------------------------------------------------------------------------------------------------------------------

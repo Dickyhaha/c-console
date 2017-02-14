@@ -1,0 +1,76 @@
+1) The Stick
+100 att 5
+2) The Lollipop
+500 att 7
+3) The Pipe
+1000 att 10
+4) The Umbrella
+2000 att 15
+5) Baseball Bat
+3000 att 20
+6) Combat Knife
+5000 att 30
+7) Katana
+7500 att 40
+8) Hidden Blade
+10000 att 50
+9) Geleto's dual blades
+15000 att 60
+10) Leaf Armor
+100 def 1
+11) Wooden Shield
+500 def 2
+12) Crocodile Skin
+1000 def 5
+13) Bronze Armor
+2000 def 10
+14) Chain mail
+3000 def 15
+15) Dragon Cape
+5000 def 20
+16) Radiometasugoinium
+7500 def 30
+17) Energy Shield
+10000 def 40
+18) Geleto's black cape
+15000 def 50
+19) Health Potion (s)
+35 HP 10
+20) Health Potion (m)
+70 HP 30
+21) Health Potion (l)
+100 HP 50
+22) Mana Potion (s)
+35 MP 5
+23) Mana Potion (m)
+70 MP 15
+24) Mana Potion (l)
+100 MP 30
+25) Stun Grenade
+70 stun 1
+26) Poison Dart
+50 poison 5
+27) Revive Potion
+500 revive 1
+28) Red Key
+500 key 0
+29) Yellow Key
+500 key 0
+30) Green Key
+500 key 0
+31) Blue Key
+500 key 0
+32) Purple Key
+500 key 0
+33) White Key
+1000 key 0
+34) Black Key
+1000 key 0
+35) Golden Key
+5000 key 0
+36) SPEED UP
+3000 misc 0
+37) No Ads
+3000 misc 0
+38) ???
+99999 misc 0

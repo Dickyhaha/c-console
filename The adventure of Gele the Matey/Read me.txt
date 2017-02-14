@@ -1,0 +1,31 @@
+Welcome to the pirate's shore. 
+Here you will learn how to complete the tasks in your adventure.
+We know that the adventure is exciting, and we sincerely hope you feel the same way.
+
+There are some instructions and reminders for you to finish your adventure:
+
+1. General adventure intructions
+
+a. This is a Command-line RPG simulation TPS (Third person shooting) fantasy RPG horror 
+   comedy RPG adventure game.
+b. Throughout the adventure, you will mostly be using ¡ö¡ô¡õ¡÷ and (Space Bar). Additional
+   keys will be indicated otherwise.
+c. Your character, aka Gele the Matey, will be shown as "P" in game.
+d. To trigger conversation with other characters, press (Space Bar)
+
+2. Battle reminders
+
+a. Throughout the adventure, Gele the Matey will be having battles.
+b. In your late-period gameplay, Gele the Matey will gain experience and thus level up,
+   character statistics will thus increase accordingly.
+c. During battles, Gele the Matey and his opponents will take turn dealing damage to each
+   other, if both Gele the Matey and the opponent's health have dropped to 0, Gele the 
+   Matey will lose the game as he will not have the strength to pick up the loot, which is
+   just same as losing.
+d. You will not be punished for losing a battle, i.e. you won't lose your money or exp.
+e. P.S. Just in case you don't understand: M = Miss, N = Normal, C = Critical.
+
+P.S. This game is too simple to have lags, please enjoy the 0 loading time game.
+P.P.S. If you have any questions about the game, please contact 62911863, our customer
+       service department will answer your inquiries as soon as possible.
+P.P.P.S. Slow slow play, slow slow enjoy.
